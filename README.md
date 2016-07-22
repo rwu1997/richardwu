@@ -1,2 +1,2 @@
 # richardwu
-I am now at github.com/richardwu
+I am now at https://github.com/richardwu
